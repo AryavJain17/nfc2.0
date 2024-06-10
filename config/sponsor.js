@@ -1,7 +1,7 @@
 export const sponsorConfig = {
   gold: {
     Name: "gold",
-    Img: "./images/sponsor/Mando Coin (2).png",
+    Img: "/images/sponsor/Mando Coin (2).png",
     Type: "",
     // Sponsor: [
     //   {
@@ -14,12 +14,12 @@ export const sponsorConfig = {
       {
         id: "1",
         Name: "Devfolio",
-        Img: "./images/sponsor/Devfolio_Logo-White.png",
+        Img: "/images/sponsor/Devfolio_Logo-White.png",
       },
       {
         id: "2",
         Name: "Polygon",
-        Img: "./images/sponsor/Polygon_Logo-Colored@2x.png",
+        Img: "/images/sponsor/Polygon_Logo-Colored@2x.png",
       },
     ],
   },
@@ -51,53 +51,53 @@ export const sponsorConfig = {
   bronze: {
     id: "3",
     Name: "bronze",
-    Img: "./images/sponsor/Mando Coin br.png",
+    Img: "/images/sponsor/Mando Coin br.png",
     Type: "",
     Sponsor: [
       {
         id: "1",
         Name: "Coding Ninjas",
-        Img: "./images/sponsor/CN.png",
+        Img: "/images/sponsor/CN.png",
       },
       {
         id: "2",
         Name: "Solana",
-        Img: "./images/sponsor/Solana Dark.png",
+        Img: "/images/sponsor/Solana Dark.png",
       },
       {
         id: "3",
         Name: "Replit",
-        Img: "./images/sponsor/Replit-Dark-Background.png",
+        Img: "/images/sponsor/Replit-Dark-Background.png",
       },
       {
         id: "1",
         Name: "Filecoin",
-        Img: "./images/sponsor/Filecoin Coloured White Text-1.png",
+        Img: "/images/sponsor/Filecoin Coloured White Text-1.png",
       },
       {
         id: "5",
         Name: "VerbWire",
-        Img: "./images/sponsor/Verbwire.png",
+        Img: "/images/sponsor/Verbwire.png",
       },
       {
         id: "6",
         Name: "Bombay Curry",
-        Img: "./images/sponsor/the_bombay_curry-removebg-preview.png",
+        Img: "/images/sponsor/the_bombay_curry-removebg-preview.png",
       },
       {
         id: "7",
         Name: "Bombay Burgers",
-        Img: "./images/sponsor/Bombay Burger.png",
+        Img: "/images/sponsor/Bombay Burger.png",
       },
       {
         id: "8",
         Name: "hoverRobotix",
-        Img: "./images/sponsor/hoverrobotix.png",
+        Img: "/images/sponsor/hoverrobotix.png",
       },
       {
         id: "9",
         Name: "Internshala",
-        Img: "./images/sponsor/internshala.png",
+        Img: "/images/sponsor/internshala.png",
       },
     ],
   },
